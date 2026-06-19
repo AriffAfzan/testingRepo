@@ -3,3 +3,5 @@ os
 matplotlib
 torchvision
 cv2
+benjy
+stanis
